@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moumita-das/FlickrClone/static/css/main.64cc8273.css",
+    "main.js": "/moumita-das/FlickrClone/static/js/main.f28aa755.js",
+    "static/media/cat.jpg": "/moumita-das/FlickrClone/static/media/cat.42ae5aabacba4eb2f9d5.jpg",
+    "index.html": "/moumita-das/FlickrClone/index.html",
+    "main.64cc8273.css.map": "/moumita-das/FlickrClone/static/css/main.64cc8273.css.map",
+    "main.f28aa755.js.map": "/moumita-das/FlickrClone/static/js/main.f28aa755.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64cc8273.css",
+    "static/js/main.f28aa755.js"
+  ]
+}
